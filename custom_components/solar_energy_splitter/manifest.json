@@ -1,12 +1,12 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
+  "domain": "solar_energy_splitter",
+  "name": "Solar energy splitter",
   "codeowners": [
-    "@ludeeus"
+    "@toggm"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/ludeeus/integration_blueprint",
+  "documentation": "https://github.com/toggm/solar-energy-splitter",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ludeeus/integration_blueprint/issues",
+  "issue_tracker": "https://github.com/toggm/solar-energy-splitter/issues",
   "version": "0.0.0"
 }
